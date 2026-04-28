@@ -24,6 +24,9 @@ This is quick sort and it works in O(logn) complexity. First step we need to fin
 This is the result of different sizes of array. We can see all time for each sort.
 
 
+I learned that algorithms grow differently when data size increases. Bubble Sort is okay for small lists, but it is very slow for large ones. Quick Sort and Binary Search are much faster because they use divide and conquer strategy. Choosing the right algorithm saves a lot of time. In theory, Quick Sort is always fast. But in practice, if the list is already sorted, it can become slow. Also, the first time I run the code in Java, it is a bit slower because the computer needs to "warm up." Small background programs on my PC can also change the results in nanoseconds. The biggest challenge was recursion in Quick Sort. It was hard to understand when it stops. Also it hard to understand the structure of all code
+
+
 
 
 
