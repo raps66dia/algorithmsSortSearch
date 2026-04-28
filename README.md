@@ -11,3 +11,13 @@ Do the results match the expected Big-O complexity? Yes if we use System.nanoTim
 Which searching algorithm is more efficient? Why? Binary searching more efficient because it has logn complexity but work only on sorted data
 
 Why does Binary Search require a sorted array? Because this search divide array to small array where left side is smaller than right side.
+
+# Project Overview 
+
+<img width="583" height="394" alt="изображение" src="https://github.com/user-attachments/assets/82e577d1-153f-4e63-83b5-6d0fbaa2bf0b" />
+Bubble sort compare 2 closers element from beggining and if right element smaller than left one they will swap. The purpose of experiment is compare the time of execution when we input different sizes of array. Time complexity will O(n^2)
+
+
+
+
+
